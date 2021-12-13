@@ -13,6 +13,7 @@ public class Factorial {
 		Factorial f1= new Factorial();
 		f1.factorial(6);
 		
+		
 	}
 
 }
